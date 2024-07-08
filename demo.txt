@@ -1,0 +1,2 @@
+VS Code has built-in Git support, allowing developers to manage version control 
+within the editor, including staging changes, committing, branching, and resolving merge conflicts.
